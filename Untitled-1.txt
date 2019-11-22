@@ -10,3 +10,8 @@ tste
 if(cerveja!=null){
     felicidade++;
 }
+else {
+    if(cerveja==null && churrasco !=null){
+        felicidade=felicidade+1;
+    }
+}
