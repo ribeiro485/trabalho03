@@ -17,4 +17,4 @@ else {
 }
 
 
-while (te)
+Codigo editado com sucesso
