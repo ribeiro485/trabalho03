@@ -5,3 +5,8 @@ tste
 ###INSTALAÇÃO
 
 ##HOHOHO
+
+
+if(cerveja!=null){
+    felicidade++;
+}
